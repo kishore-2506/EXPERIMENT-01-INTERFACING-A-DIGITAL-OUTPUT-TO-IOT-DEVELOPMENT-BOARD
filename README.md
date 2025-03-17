@@ -109,7 +109,11 @@ int main(void)
 ```
 
 ## OUTPUT
-  
+  ON:
+![WhatsApp Image 2025-03-17 at 16 23 08_c936d903](https://github.com/user-attachments/assets/2324261d-e6a0-420c-bda9-c38ebe648956)
+
+  OFF:
+![WhatsApp Image 2025-03-17 at 16 23 08_acdf7c68](https://github.com/user-attachments/assets/af010ebd-1268-4e3d-aa88-e57fd97318cc)
 
 ## Result
 
